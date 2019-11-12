@@ -1,0 +1,7 @@
+# Ignoruje wybrane pliki lub katalogi
+
+# Ignoruj plik o nazwie abc.iml
+abc.iml
+
+# Ignoruj katalog .idea
+.idea/
